@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+python-dotenv
+langchain_groq
+wikipedia
+numexpr
